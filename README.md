@@ -14,7 +14,7 @@ The other modules used include:
 
 The car contains the following parts:
 
-1. Raspberry Pi 3A - The Brains of the car which recieves the frames from the camera, processes it and then gives the commands to the Arduino.
+1. Raspberry Pi 3B - The Brains of the car which recieves the frames from the camera, processes it and then gives the commands to the Arduino.
 2. Web camera
 3. Two DC motors
 4. L289N Motor controller
