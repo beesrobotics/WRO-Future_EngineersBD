@@ -22,7 +22,7 @@ The car contains the following parts:
 6. Two ultrasonic sensor
 7. plastic board chasis as well as some plastic parts for stablilising the components
 
-# Program function 
+# Program function:
 
 The program consists of three parts:
 
